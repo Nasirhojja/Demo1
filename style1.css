@@ -1,0 +1,149 @@
+*{
+padding: o;
+margin: 0;
+box-sizing: border-box;
+
+}
+body
+{
+
+background-size: cover;
+background-position: center;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.Navigation_bar {
+width: 100%;
+height: 100px;
+}
+.Navigation_bar_right {
+width: 50%;
+height: 200px;
+float: left;
+
+}
+
+.naveimg{
+    padding-left: 100px;
+    padding-top: 8px;
+}
+   
+.Navigation_bar_left{
+    width: 50%;
+    height: 200px;
+    box-sizing: border-box;
+    float: right;
+    text-align: center;
+   
+
+   
+   
+}
+
+.menu ul {
+display: inline-flex;
+list-style: none;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #000;
+padding-top: 30px;
+
+
+}
+.menu{
+    
+    width: 100%;
+    height: 100px;
+    margin-top: 60px;
+
+}
+.menu a{
+    text-decoration: none;
+    
+
+}
+.menu li a{
+    width: 40px;
+    margin: 10px;
+    padding: 25px;
+    color: black;
+    margin-top: 50px;
+    margin-top: 50px;
+}
+.img_block{
+    width: 100%;
+    height: auto;
+   box-sizing: border-box;
+   
+    
+
+}
+.text-block{
+    width: 100%;
+
+}
+.text-block h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #000;
+    padding-top: 50px;
+    font-weight: 600;
+   
+}
+.text-block p{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    line-height: 30px;
+}
+.img-text{
+    width: 100%;
+    height: auto;
+   
+
+}
+.simpol-img{
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+float: left;
+padding-top: 40px;
+padding-bottom: 20px;
+
+
+}
+.list_text{
+    width: 50%;
+    height: auto;
+   float: right;
+   padding-top: 40px;
+   padding-bottom: 20px;
+}
+.list_text h1{
+    color: #000;
+    text-align: left;
+    padding-bottom: 14px;
+}
+.list_text li{
+    list-style: square;
+    line-height: 27px;
+    font-size: medium;
+    font-weight: 400;
+    
+    
+
+
+}
+.galary{
+    width: 1200px;
+    height: 400px;
+    background-color: aqua;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
